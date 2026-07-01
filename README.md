@@ -1,56 +1,129 @@
-## Hi there, I'm Susan Offiong 👋
+# Hi there, I'm Susan Offiong 👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Data+Analyst;Helping+Businesses+Make+Better+Decisions+with+Data;SQL+%7C+Power+BI+%7C+Microsoft+Fabric+%7C+Tableau+%7C+Excel;Turning+Complex+Data+into+Clear+Business+Insights" alt="Typing SVG" />
+
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/susan-offiong/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:suepraise@yahoo.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/susan-offiong/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:suepraise@yahoo.com">
+<img src="https://img.shields.io/badge/Email-Contact-success?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://susanoffiong.github.io/Suepraise.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-orange?style=for-the-badge&logo=googlechrome">
+</a>
 </p>
 
-## 🚀 About Me 
-I am a Data Analyst who helps people understand what their data is saying and how they can use it to make better decisions.
+---
 
-I work with SQL, Microsoft Fabric, Power BI, Tableau, and Excel to clean data, find patterns, answer business questions, and build dashboards that make information easier to understand.
+# About Me
 
-I am also a Tech Educator and Author. Over the years, I have learned that finding insights is only part of the job. The other part is explaining those insights in a way that people can understand and use. That is why I enjoy turning complex information into clear and practical ideas.
+I help organisations answer business questions using data.
 
-On this GitHub profile, you will find projects that show how I approach real business problems, analyse data, and turn findings into useful recommendations.
+My work involves extracting, cleaning, analysing, and visualising data to uncover insights that support planning, performance monitoring, and decision-making.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website]([https://your-username.github.io/](https://susanoffiong.github.io/Suepraise.github.io/))
-      
-## 🔭 What I'm Currently Working On 
+I work with SQL, Microsoft Fabric, Power BI, Tableau, and Excel to transform raw data into dashboards, reports, and recommendations that people can understand and use.
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+As a Tech Educator and Author, I enjoy explaining complex ideas in simple language because good analysis creates value only when people understand it.
 
-## 🌱 Currently Learning 
+---
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+# My Analytics Workflow
 
-## 🛠️ Technical Skillset
+```text
+Business Question
+        │
+        ▼
+Data Extraction
+        │
+        ▼
+Data Cleaning & Transformation
+        │
+        ▼
+Data Analysis
+        │
+        ▼
+Dashboard Development
+        │
+        ▼
+Business Insights
+        │
+        ▼
+Recommendations
+```
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+---
 
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+# Featured Analytics Case Studies
+
+| Project | Industry | Tools |
+|----------|----------|-------|
+| 🏗️ Cement Demand Forecasting | Construction | SQLite • SQL • Power BI • Power Query • DAX |
+| 🏢 Centralized Property Data Platform | Real Estate | SQL • Power BI • Power Query |
+| 👥 HR Workforce Analytics | Human Resources | SQL |
+
+> Click any project above to explore the complete case study, dashboard walkthrough, business insights, and recommendations.
+
+---
+
+# Tools & Technologies
+
+### Data Analysis
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B46C1?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+### Data Preparation
+
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+# What You'll Find Here
+
+📊 Business Analytics Case Studies
+
+📈 Interactive Dashboards
+
+🗄 SQL Projects
+
+📚 Data Storytelling
+
+💡 Business Insights & Recommendations
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SusanOffiong&show_icons=true&theme=default&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusanOffiong&layout=compact&hide_border=true"/>
+
 </p>
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+---
+
+# Let's Connect
+
+💼 LinkedIn: https://www.linkedin.com/in/susan-offiong/
+
+🌐 Portfolio: https://susanoffiong.github.io/Suepraise.github.io/
+
+📧 Email: suepraise@yahoo.com
+
+---
+
+> *"Good analysis doesn't end with finding insights. It ends when people understand them well enough to make better decisions."*
