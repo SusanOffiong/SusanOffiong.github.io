@@ -32,6 +32,15 @@ I work with SQL, Microsoft Fabric, Power BI, Tableau, and Excel to transform raw
 
 As a Tech Educator and Author, I enjoy explaining complex ideas in simple language because good analysis creates value only when people understand it.
 
+---
+
+# How I Approach Every Project
+
+When I begin a project, I ask myself one question:
+
+> **"If I were the client, what would I need to know to make a better decision?"**
+
+That question shapes everything that follows—from the data I explore, to the dashboards I build, to the recommendations I provide.
 
 ---
 
@@ -64,6 +73,19 @@ As a Tech Educator and Author, I enjoy explaining complex ideas in simple langua
 </p>
 
 ---
+
+# Industries I'm Interested In
+
+• Consulting
+
+• Technology
+
+• Government & Public Sector
+
+• Healthcare
+
+---
+
 
 # Let's Connect
 
