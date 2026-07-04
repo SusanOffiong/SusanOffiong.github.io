@@ -2,23 +2,23 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Data+Analyst;Helping+Businesses+Make+Better+Decisions+with+Data;SQL+%7C+Power+BI+%7C+Microsoft+Fabric+%7C+Tableau+%7C+Excel;Turning+Complex+Data+into+Clear+Business+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=2E9EF7&center=true&vCenter=true&width=900&lines=Data+Analyst;Business+Intelligence;Helping+Organisations+Make+Better+Decisions+with+Data;Turning+Complex+Data+into+Clear+Business+Insights" alt="Typing SVG"/>
 
-</div>
+<br><br>
 
-<p align="center">
 <a href="https://www.linkedin.com/in/susan-offiong/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:suepraise@yahoo.com">
-<img src="https://img.shields.io/badge/Email-Contact-success?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-Contact-success?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://susanoffiong.github.io/Suepraise.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-orange?style=for-the-badge&logo=googlechrome">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-orange?style=for-the-badge&logo=googlechrome"/>
 </a>
-</p>
+
+</div>
 
 ---
 
@@ -32,85 +32,34 @@ I work with SQL, Microsoft Fabric, Power BI, Tableau, and Excel to transform raw
 
 As a Tech Educator and Author, I enjoy explaining complex ideas in simple language because good analysis creates value only when people understand it.
 
----
-
-# My Analytics Workflow
-
-```text
-Business Question
-        │
-        ▼
-Data Extraction
-        │
-        ▼
-Data Cleaning & Transformation
-        │
-        ▼
-Data Analysis
-        │
-        ▼
-Dashboard Development
-        │
-        ▼
-Business Insights
-        │
-        ▼
-Recommendations
-```
 
 ---
 
-# Featured Analytics Case Studies
+# Featured Business Case Studies
 
 | Project | Industry | Tools |
-|----------|----------|-------|
-| 🏗️ Cement Demand Forecasting | Construction | SQLite • SQL • Power BI • Power Query • DAX |
-| 🏢 Centralized Property Data Platform | Real Estate | SQL • Power BI • Power Query |
-| 👥 HR Workforce Analytics | Human Resources | SQL |
+|---------|----------|-------|
+| 🏗️ **Cement Demand Forecasting** | Construction | SQL • Power BI • Power Query • DAX |
+| 🏢 **Centralized Property Data Platform** | Real Estate | SQL • Power BI • Power Query |
+| 👥 **HR Workforce Analytics** | Human Resources | SQL |
 
-> Click any project above to explore the complete case study, dashboard walkthrough, business insights, and recommendations.
-
----
-
-# Tools & Technologies
-
-### Data Analysis
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-6B46C1?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-### Data Preparation
-
-![Power Query](https://img.shields.io/badge/Power_Query-217346?style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+> Each case study takes you through the business problem, data preparation, analysis, dashboards, insights, and recommendations.
 
 ---
 
-# What You'll Find Here
+# Tools I Use
 
-📊 Business Analytics Case Studies
+<p>
 
-📈 Interactive Dashboards
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-🗄 SQL Projects
+<img src="https://img.shields.io/badge/Microsoft%20Fabric-6B46C1?style=for-the-badge"/>
 
-📚 Data Storytelling
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-💡 Business Insights & Recommendations
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
----
-
-# GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SusanOffiong&show_icons=true&theme=default&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SusanOffiong&layout=compact&hide_border=true"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 </p>
 
@@ -118,11 +67,14 @@ Recommendations
 
 # Let's Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/susan-offiong/
+🌐 **Portfolio**  
+https://susanoffiong.github.io/Suepraise.github.io/
 
-🌐 Portfolio: https://susanoffiong.github.io/Suepraise.github.io/
+💼 **LinkedIn**  
+https://www.linkedin.com/in/susan-offiong/
 
-📧 Email: suepraise@yahoo.com
+📧 **Email**  
+suepraise@yahoo.com
 
 ---
 
