@@ -47,22 +47,12 @@ That question shapes everything that follows—from the data I explore, to the d
 # Featured Business Case Studies
 
 | Project | Industry | Tools |
-|---------|----------|-------|
-| 🏗️ **Cement Demand Forecasting** | Construction | SQL • Power BI • Power Query • DAX |
-| 🏢 **Centralized Property Data Platform** | Real Estate | SQL • Power BI • Power Query |
-| 👥 **HR Workforce Analytics** | Human Resources | SQL |
-
-> Each case study takes you through the business problem, data preparation, analysis, dashboards, insights, and recommendations.
-
-| Project | Industry | Tools |
 |---|---|---|
 | 🏗️ [**Cement Demand Forecasting**](https://github.com/SusanOffiong/cement-demand-forecasting) | Construction | SQL • Power BI • Power Query • DAX |
 | 🏢 [**Centralized Property Data Platform**](https://github.com/SusanOffiong/Centralized-Property-Data-Platform) | Real Estate | SQL • Power BI • Power Query • DAX |
 | 👥 [**HR Workforce Analytics**](https://github.com/SusanOffiong/HR-Workforce-Analytics) | Human Resources | SQL |
 
 > Each case study takes you through the business problem, data preparation, analysis, dashboards, insights, and recommendations.
-
----
 
 ---
 
@@ -100,13 +90,13 @@ That question shapes everything that follows—from the data I explore, to the d
 # Let's Connect
 
 🌐 **Portfolio**  
-https://susanoffiong.github.io/Suepraise.github.io/
+[Visit My Portfolio](https://susanoffiong.github.io/Suepraise.github.io/)
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/susan-offiong/
+[Connect with me on LinkedIn](https://www.linkedin.com/in/susan-offiong/)
 
 📧 **Email**  
-suepraise@yahoo.com
+[suepraise@yahoo.com](mailto:suepraise@yahoo.com)
 
 ---
 
