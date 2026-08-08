@@ -54,6 +54,16 @@ That question shapes everything that follows—from the data I explore, to the d
 
 > Each case study takes you through the business problem, data preparation, analysis, dashboards, insights, and recommendations.
 
+| Project | Industry | Tools |
+|---|---|---|
+| 🏗️ [**Cement Demand Forecasting**](https://github.com/SusanOffiong/cement-demand-forecasting) | Construction | SQL • Power BI • Power Query • DAX |
+| 🏢 [**Centralized Property Data Platform**](https://github.com/SusanOffiong/Centralized-Property-Data-Platform) | Real Estate | SQL • Power BI • Power Query • DAX |
+| 👥 [**HR Workforce Analytics**](https://github.com/SusanOffiong/HR-Workforce-Analytics) | Human Resources | SQL |
+
+> Each case study takes you through the business problem, data preparation, analysis, dashboards, insights, and recommendations.
+
+---
+
 ---
 
 # Tools I Use
