@@ -90,7 +90,7 @@ That question shapes everything that follows—from the data I explore, to the d
 # Let's Connect
 
 🌐 **Portfolio**  
-[Visit My Portfolio](https://susanoffiong.github.io/Suepraise.github.io/)
+[Visit My Portfolio](https://susanoffiong.github.io/suepraise.github.io/)
 
 💼 **LinkedIn**  
 [Connect with me on LinkedIn](https://www.linkedin.com/in/susan-offiong/)
