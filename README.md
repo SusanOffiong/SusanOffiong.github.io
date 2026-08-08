@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/Email-Contact-success?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://susanoffiong.github.io/Suepraise.github.io/">
+<a href="https://susanoffiong.github.io/suepraise.github.io/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-orange?style=for-the-badge&logo=googlechrome"/>
 </a>
 
